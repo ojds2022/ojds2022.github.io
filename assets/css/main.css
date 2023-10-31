@@ -2653,7 +2653,7 @@ input, select, textarea {
 		}
 		
 		#skyWatcherImg {
-			background-color: rgb(153, 153, 255, 1);
+			background-color: rgb(153, 153, 255, 0.5);
 		}
 		
 		#paiMee {

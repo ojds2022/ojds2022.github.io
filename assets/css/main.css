@@ -2651,8 +2651,9 @@ input, select, textarea {
 			background-image: url('../../images/foodIcons.png');
 			background-color: skyblue;
 		}
-		#plateLogo {
-			
+		
+		#skyWatcherImg {
+			background-color: rgb(153, 153, 255, 1);
 		}
 		
 		#paiMee {

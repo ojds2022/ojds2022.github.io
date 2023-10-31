@@ -2664,6 +2664,7 @@ input, select, textarea {
 
 		#cafeDuCoastImg {
 			background-size: cover;
+			background-position: center;
 		}
 		
 		#paiMee {

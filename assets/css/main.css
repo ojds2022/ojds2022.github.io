@@ -2654,8 +2654,7 @@ input, select, textarea {
 			background-color: skyblue;
 		}
 		#plateLogo {
-			position: relative;
-			top: 10px;
+			width: 60px;
 		}
 		
 		#skyWatcherLink {

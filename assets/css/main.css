@@ -2663,8 +2663,7 @@ input, select, textarea {
 		}
 
 		#cafeDuCoastImg {
-			background-size: cover;
-			background-position: center;
+			background-repeat: repeat-y;
 		}
 		
 		#paiMee {

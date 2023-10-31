@@ -2653,6 +2653,10 @@ input, select, textarea {
 			background-image: url('../../images/foodIcons.png');
 			background-color: skyblue;
 		}
+		#plateLogo {
+			position: relative;
+			top: 10px;
+		}
 		
 		#skyWatcherLink {
 			background-color: rgb(153, 153, 255, 0.5);

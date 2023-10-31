@@ -2652,9 +2652,11 @@ input, select, textarea {
 			background-color: skyblue;
 		}
 		
-		#skyWatcherImg {
+		#skyWatcherLink {
 			background-color: rgb(153, 153, 255, 0.5);
-			
+		}
+		#skyWatcherImg {
+			width: 200px;
 		}
 		
 		#paiMee {

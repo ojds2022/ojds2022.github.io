@@ -2661,6 +2661,10 @@ input, select, textarea {
 			width: 200px;
 			margin: auto;
 		}
+
+		#cafeDuCoastImg {
+			background-repeat: repeat;
+		}
 		
 		#paiMee {
 			background-color: mediumpurple;

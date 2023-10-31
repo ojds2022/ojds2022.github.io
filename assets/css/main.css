@@ -2657,6 +2657,7 @@ input, select, textarea {
 		}
 		#skyWatcherImg {
 			width: 200px;
+			margin: auto;
 		}
 		
 		#paiMee {

@@ -2655,6 +2655,8 @@ input, select, textarea {
 		}
 		#plateLogo {
 			width: 150px;
+			position: absolute;
+			top: 10px;
 		}
 		
 		#skyWatcherLink {

@@ -3323,7 +3323,7 @@ input, select, textarea {
 		@media screen and (orientation: portrait) {
 
 			#wrapper > .bg {
-				background-size: auto,								auto,														auto 150%;
+				background-size: 150%,								auto,														auto 175%;
 				background-position-x: 55%;
 			}
 

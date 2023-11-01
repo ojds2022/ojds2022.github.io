@@ -3324,7 +3324,7 @@ input, select, textarea {
 
 			#wrapper > .bg {
 				background-size: auto,								auto,														auto 175%;
-				background-position-x: left;
+				background-position-x: 25%;
 			}
 
 		}

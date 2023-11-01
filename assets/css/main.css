@@ -3273,6 +3273,7 @@ input, select, textarea {
 	}
 
 		#wrapper > .bg {
+
 			position: absolute;
 			opacity: 0.7;
 			top: 0;
@@ -3281,7 +3282,7 @@ input, select, textarea {
 			height: 100%;
 			background-color: #212931;
 			background-image: url("../../images/laskyline-resized.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
-			background-size: contain,								contain,														contain;
+			background-size: cover,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: no-repeat,								no-repeat,													no-repeat;
 			background-attachment: scroll,								scroll,														scroll;
@@ -3322,7 +3323,7 @@ input, select, textarea {
 		@media screen and (orientation: portrait) {
 
 			#wrapper > .bg {
-				background-size: auto,								auto,														auto 175%;
+				background-size: contain,								auto,														auto 175%;
 			}
 
 		}
